@@ -1,0 +1,12 @@
+../Core/Src/main.c:66:5:_write	1
+../Core/Src/main.c:72:6:switchToGPIO_Mode	1
+../Core/Src/main.c:84:6:switchToUART_Mode	1
+../Core/Src/main.c:90:6:sendPulseToSensor	1
+../Core/Src/main.c:99:6:receiveDataFromSensor	17
+../Core/Src/main.c:141:6:handleSensorCommunication	1
+../Core/Src/main.c:165:5:main	2
+../Core/Src/main.c:219:6:SystemClock_Config	3
+../Core/Src/main.c:266:13:MX_USART1_UART_Init	5
+../Core/Src/main.c:314:13:MX_USART2_UART_Init	5
+../Core/Src/main.c:362:13:MX_GPIO_Init	1
+../Core/Src/main.c:390:6:Error_Handler	1
